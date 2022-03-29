@@ -9,9 +9,9 @@
     width: 100%;
     filter: blur(4px);
 }
-@media (max-width: 1400px) {
+@media (max-width: 1450px) {
     .content .topimg {
-        height: 40vh;
+        height: 35vh;
     }
 }
 
@@ -28,9 +28,9 @@
 
     font-size: 3rem;
 }
-@media (max-width: 1400px) {
+@media (max-width: 1450px) {
     .content .pagetitle {
-        margin-top: 37vh;
+        margin-top: 32vh;
     }
 }
 .content .pagetitle.nomargin {
